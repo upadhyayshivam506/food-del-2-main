@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../food-del-2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "food-del"
+	}
+}
